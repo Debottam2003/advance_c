@@ -1,11 +1,11 @@
 #include<stdio.h>
 
-void main() {
+int main() {
     printf("Hello, World!\n");
     printf("Hello, ");
     printf("World!");
     printf("\n");
-    // print("\c");
+    // printf("\c");
     // warning: unknown escape sequence: ‘\c’
-    printf("\\c");
+    printf("\\c\n");
 }
