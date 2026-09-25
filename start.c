@@ -1,6 +1,10 @@
 #include<stdio.h>
 
 int main() {
+    // This is my first C program! :)
+    /*
+    This is multi-line comment. It can span multiple lines.
+    */
     printf("Hello, World!\n");
     printf("Hello, ");
     printf("World!");
